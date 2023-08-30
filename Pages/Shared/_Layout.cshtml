@@ -1,0 +1,92 @@
+﻿@using Microsoft.AspNetCore.Mvc.Localization
+@using Microsoft.AspNetCore.Builder
+@using Microsoft.AspNetCore.Http.Features
+@using Microsoft.AspNetCore.Localization
+@using Microsoft.Extensions.Options
+
+@inject IViewLocalizer LayoutLocalizer
+@inject IOptions<RequestLocalizationOptions> LocOptions
+@{
+    var requestCulture = Thread.CurrentThread.CurrentCulture;
+    var flagClass = "";
+    if (LayoutLocalizer["Language:"].Value == "Italiano") { flagClass = "flag-icon flag-icon-it"; } else { flagClass = "flag-icon flag-icon-gb"; }
+    var cultureItems = LocOptions!.Value!.SupportedUICultures!
+        .Select(c => new SelectListItem { Value = c.Name, Text = c.DisplayName })
+        .ToList();
+    var returnUrl = string.IsNullOrEmpty(Context.Request.Path) ? "" : $"{Context.Request.QueryString.Value}";
+}
+<!DOCTYPE html>
+<html lang="it-IT">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>@ViewData["Title"] - Fabi</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700&amp;display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Kaushan+Script&amp;display=swap">
+    <link rel="stylesheet" href="~/fonts/font-awesome.min.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/0.8.2/css/flag-icon.min.css" rel="stylesheet" />
+</head>
+<body id="page-top">
+    <nav class="navbar navbar-dark navbar-expand-lg fixed-top bg-dark" id="mainNav">
+        <div class="container">
+            <a class="navbar-brand" href="#page-top">Fabi</a><button data-toggle="collapse" data-target="#navbarResponsive" class="navbar-toggler navbar-toggler-right" type="button" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><i class="fa fa-bars"></i></button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav ml-auto text-uppercase">
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#mystory">@LayoutLocalizer["menu1"].Value</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">@LayoutLocalizer["menu2"].Value</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#mywork">@LayoutLocalizer["menu3"].Value</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">@LayoutLocalizer["menu4"].Value</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#contact">@LayoutLocalizer["menu5"].Value</a></li>
+                </ul>
+                <div class="dropdown">
+                    <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <span class="@flagClass"></span>
+                        @LayoutLocalizer["Language:"]
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                        <a class="dropdown-item" href="/?culture=it-IT">
+                            <span class="flag-icon flag-icon-it"></span>
+                            Italiano
+                        </a>
+                        <a class="dropdown-item" href="/?culture=en-GB">
+                            <span class="flag-icon flag-icon-gb"></span>
+                            English
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+    @RenderBody()
+
+    <footer>
+        <div class="container">
+            <div class="row">
+                @*
+                <div class="col-md-4"><span class="copyright">Copyright&nbsp;© Brand 2023</span></div>*@
+                <div class="col-md-4">
+                    <ul class="list-inline social-buttons">
+                        <li class="list-inline-item"><a href="#"><i class="fa fa-github"></i></a></li>
+                        <li class="list-inline-item"><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                        <li class="list-inline-item"><a href="#"><i class="fa fa-youtube"></i></a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <ul class="list-inline quicklinks">
+                        <li class="list-inline-item">
+                            <a asp-area="" asp-page="/Privacy">Privacy Policy</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/js/bootstrap.min.js"></script>
+    <script src="~/lib/jquery/dist/jquery.easing.min.js"></script>
+    <script src="~/lib/jquery/dist/agency.js"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

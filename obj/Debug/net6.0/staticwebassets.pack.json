@@ -1,0 +1,305 @@
+{
+  "Files": [
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ExampleSPA.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ExampleSPA.bundle.scp.css"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\fonts\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome.min.css"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\img\\about\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\1.jpg"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\img\\about\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\2.jpg"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\img\\about\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\3.jpg"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\img\\about\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\4.jpg"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\img\\clients\\creative-market.jpg",
+      "PackagePath": "staticwebassets\\img\\clients\\creative-market.jpg"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\img\\clients\\designmodo.jpg",
+      "PackagePath": "staticwebassets\\img\\clients\\designmodo.jpg"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\img\\clients\\envato.jpg",
+      "PackagePath": "staticwebassets\\img\\clients\\envato.jpg"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\img\\clients\\themeforest.jpg",
+      "PackagePath": "staticwebassets\\img\\clients\\themeforest.jpg"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\img\\header-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\header-bg.jpg"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\img\\header-bg.png",
+      "PackagePath": "staticwebassets\\img\\header-bg.png"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\img\\map-image.png",
+      "PackagePath": "staticwebassets\\img\\map-image.png"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\img\\me.png",
+      "PackagePath": "staticwebassets\\img\\me.png"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\img\\portfolio\\1-full.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\1-full.jpg"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\img\\portfolio\\1-thumbnail.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\1-thumbnail.jpg"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\img\\portfolio\\2-full.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\2-full.jpg"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\img\\portfolio\\2-thumbnail.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\2-thumbnail.jpg"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\img\\portfolio\\3-full.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\3-full.jpg"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\img\\portfolio\\3-thumbnail.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\3-thumbnail.jpg"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\img\\portfolio\\4-full.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\4-full.jpg"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\img\\portfolio\\4-thumbnail.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\4-thumbnail.jpg"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\img\\portfolio\\5-full.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\5-full.jpg"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\img\\portfolio\\5-thumbnail.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\5-thumbnail.jpg"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\img\\portfolio\\6-full.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\6-full.jpg"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\img\\portfolio\\6-thumbnail.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\6-thumbnail.jpg"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\img\\team\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\1.jpg"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\img\\team\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\2.jpg"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\img\\team\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\3.jpg"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\js\\agency.js",
+      "PackagePath": "staticwebassets\\js\\agency.js"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\js\\jquery.easing.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.easing.min.js"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\lib\\jquery\\dist\\agency.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\agency.js"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\lib\\jquery\\dist\\jquery.easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.easing.min.js"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\wwwroot\\lib\\jquery\\dist\\site.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ExampleSPA.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ExampleSPA.props",
+      "PackagePath": "build\\ExampleSPA.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ExampleSPA.props",
+      "PackagePath": "buildMultiTargeting\\ExampleSPA.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ExampleSPA.props",
+      "PackagePath": "buildTransitive\\ExampleSPA.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

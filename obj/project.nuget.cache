@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ikf/xJSM959vhKsBY27hFQyfX4h05Kx5bc/5HM4o8kfaBdZK0Durq9d5GyOGWrPnt0Ex3rZAx2r93Zz4aZBGbQ==",
+  "success": true,
+  "projectFilePath": "S:\\tools\\projects\\VB.NET\\ExampleSPA\\ExampleSPA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabi\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\fabi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\fabi\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\fabi\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
